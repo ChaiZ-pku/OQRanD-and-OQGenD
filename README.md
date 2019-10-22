@@ -4,4 +4,4 @@ Dataset OQRanD and OQGenD for paper "Asking the crowd: Asking the Crowd: Questio
 
 The OQGenD dataset can be viewed at "OQGenD.xml". Each data (NQ-pairs) contains a certain piece of news with multiple related open-answered questions.
 
-It will take me some time to clean up the OQRanD dataset. I promise that all materials will become available this month.
+The OQRanD dataset can be viewed at "OQRanD.xml". Each data (Question Pairs) contains two questions, Q1 has more answers than Q2.
